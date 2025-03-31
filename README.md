@@ -8,3 +8,7 @@ Open/copy the script in maya node editor and run it.
 - It's for **Arnold only**.
 
 But I guess that's the point of this script, quick and ✨dirty✨. It does the job, but for precise control it needs more attention.
+## Release notes
+Mar. 31, 2025: Fixed the issue of  updating the UI in Maya 2025.
+## Acknowledgement
+[Scott Wilson](https://github.com/scott-wilson/) is the person that helps reviewing and making the code better. Check them out!
